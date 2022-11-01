@@ -1,0 +1,5 @@
+[04-Dec-2019 08:44:14 UTC] PHP Notice:  Undefined index: wp_version in /home/wz7wanon1j1f/public_html/blog/wp-content/themes/twentysixteen/functions.php on line 31
+[04-Dec-2019 08:44:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/wz7wanon1j1f/public_html/blog/wp-content/themes/twentysixteen/functions.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/wz7wanon1j1f/public_html/blog/wp-content/themes/twentysixteen/functions.php on line 32
