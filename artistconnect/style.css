@@ -545,7 +545,10 @@ span.middot {
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-
+.btn-center {
+	display: flex;
+	justify-content: center;
+}
 .vertical-middle {
 	height: auto !important;
 	left: 0;
