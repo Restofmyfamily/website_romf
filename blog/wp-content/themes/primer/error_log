@@ -1,4 +1,0 @@
-[04-Dec-2019 09:17:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_theme_textdomain() in /home/wz7wanon1j1f/public_html/blog/wp-content/themes/primer/functions.php:64
-Stack trace:
-#0 {main}
-  thrown in /home/wz7wanon1j1f/public_html/blog/wp-content/themes/primer/functions.php on line 64
